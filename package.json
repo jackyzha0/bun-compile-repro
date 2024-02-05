@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@napi-rs/simple-git": "^0.1.16",
+    "bun": "^1.0.26"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.16",
+    "typescript": "^5.3.3"
+  }
+}
